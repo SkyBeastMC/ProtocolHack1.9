@@ -1,0 +1,13 @@
+﻿commentaire: Ne pas supprimer ce commentaire.
+motd:
+  firstLine: '&b&lGravityDream &7- &aCreatif'
+  secondLine: '&bNew MOTD!'
+  players:
+  - 'Vous'
+  - 'etes'
+  - '&bUn joueur'
+  maxPlayers: 100
+protocolhack:
+  version: '1.9.2'
+  badProtocolServerVersion: '&41.9/1.9.1/1.9.2/1.9.3/1.9.4'
+  badProtocolKickMessage: '&6Vous devez avoir une des versions suivantes:\n&e1.9/1.9.1/1.9.2/1.9.3/1.9.4'
